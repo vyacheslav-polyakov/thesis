@@ -1,0 +1,26 @@
+1. Where do you get the most information about new products?
+(can choose multiple options)
+[] Social Media
+[] Television
+[] Radio
+[] Magazines/Newspapers
+
+2. Which advertisement source can be the most trusted?
+() Social Media
+() Television
+() Radio
+() Magazines/Newspapers
+
+3. Do you you watch videos online? If yes, which platforms do you watch? (can choose multiple options)
+[] Weibo
+[] Bilibili
+[] WeChat
+[] Douyin
+[] Youku
+[] Kuaishou
+[] iQiyi
+[] Tencent Video
+[] I don't use any of these platforms
+
+What is your age?
+>

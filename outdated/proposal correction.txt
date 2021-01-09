@@ -1,0 +1,10 @@
+Generally speaking, it is good. Then talk about the problems that have occurred. 
+
+1 There are too few references. 
+
+2 In terms of methodology, you can introduce the 
+
+design ideas 
+distribution methods
+ensure accurate data
+
