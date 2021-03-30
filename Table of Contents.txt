@@ -5,50 +5,48 @@ x		1.1.2 Significance
 x	1.2 Current State of Online Marketing in China
 x	1.3 Introduction of the case platform - Taobao Live
 
-2. Theoretical Analysis
-	2.1 Study on buying behavior and its implications for Live Streaming
-x		2.1.1 Definition of buying behavior
-x		2.1.2 The four types of buying behavior
-		2.1.3 Exploratory Consumer Buying Behavior
-		2.1.4 Consumer behavior theories
-		2.1.5 Consumer attitude Theories
-	2.2 Study on Purchase Intention:
-		2.2.1 Purchase Intention Based on Consumer Attitudes
-		2.2.2 Based on Perceived Value
-		2.2.3 Based on Perceived Risk
-		2.2.4 Based on Theory of Planned Behavior
-		2.2.5 Based on Technology Acceptance Model
+2. Marketing Context in China
+	2.1 Traditional and Digital Marketing
+x		2.1.1 Traditional Marketing in China
+		2.1.2 Internet Marketing in China
+			2.1.2.1 Environment of Internet Marketing
+			2.1.2.2 Environment of Internet Consumption
+		2.1.3 Internet Marketing Mix 
+			2.1.3.1 Product
+			2.1.3.2 Price
+			2.1.3.3 Promotion
+			2.1.3.4 Place
+	2.2 New Trends in Marketing
+x		2.2.1 Definition and Characteristics of Live Streaming
+x		2.2.2 Classification of Live Streaming Platforms
+		2.2.3 Influences of Live Streaming on desicion making process
+	2.3 Internet and the society
+x		2.3.1 Chinese Digital Users
+		2.3.2 Chinese's Internet Habits
+		2.3.3 Influencers and KOLs in China
+		2.3.4 Government policy in social media
 
-3. Marketing Context in China
-	3.1 Traditional and Digital Marketing
-		3.1.1 Traditional Marketing in China
-		3.1.2 Internet Marketing in China
-			3.1.2.1 Environment of Internet Marketing
-			3.1.2.2 Environment of Internet Consumption
-		3.1.3 Internet Marketing Mix 
-			3.1.3.1 Product
-			3.1.3.2 Price
-			3.1.3.3 Promotion
-			3.1.3.4 Place
-	3.2 New Trends in Marketing
-		3.2.1 Definition and Characteristics of Live Streaming
-		3.2.2 Classification of Live Streaming Platforms
-		3.2.3 Influences of Live Streaming on desicion making process
-	3.3 Internet and the society
-		3.3.1 Chinese Digital Users
-		3.3.2 Chinese's Internet Habits
-		3.3.3 Influencers and KOLs in China
-		3.3.4 Government policy in social media
+3. Theoretical Analysis
+	3.1 Study on buying behavior and its implications for Live Streaming
+x		3.1.1 Definition of buying behavior
+		3.1.2 Stages of Decision Making Process
+x		3.1.3 The four types of buying behavior
+		3.1.3 Factors affecting consumer buying behavior
+		3.1.4 Consumer attitude Theories
+	3.2 Study on Purchase Intention:
+		3.2.1 Purchase Intention Based on Consumer Attitudes
+		3.2.2 Based on Perceived Value
+		3.2.3 Based on Perceived Risk
+		3.2.4 Based on Theory of Planned Behavior
+		3.2.5 Based on Technology Acceptance Model
 		
 4. Methodology
-	4.1 Designing an insightful survey
-	4.2 Qualitative Research: Focus Group
-	4.2 Quantitative Research: 
-		4.2.1 Sampling 
-		4.2.2 Data Collection
-		4.2.3 Analysis
+x	4.1 Choice of the Research Method
+x	4.2 Designing an insightful survey
 
-5. Conclusions and suggestions
-	5.1 Objectives Summary
-	5.2 Findings and Implications
+5. Results and Conclusions
+	5.1 Findings and Implications
+		5.1.1 Findings
+		5.1.2 Implications
+	5.2 Objectives Summary
 	5.3 Suggestions

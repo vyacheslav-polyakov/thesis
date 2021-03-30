@@ -1,0 +1,23 @@
+4.1 Choice of the Research Method
+
+Qualitative approaches and quantitative approaches are related to discussions on the aspects of quantity and quality of a social phenomenon. Different research methods and
+research techniques have the research function of these two aspects. (Creswell 2014, 13)
+
+Qualitative research is expressed in words. It is used to understand concepts, thoughts or experiences. This type of research enables you to gather in-depth insights on topics that are not well understood.
+Common qualitative methods include interviews with open-ended questions, observations described in words, and literature reviews that explore concepts and theories.
+Qualitative research is the type of method that judges the nature, development and characteristics of an object mainly based on the experience and intuition of the analyst.
+Marshall and Rossman (1989) showed that interview, observation and literature is usually used to collect data and to conduct research based on subjective understanding and qualitative analysis.
+
+Quantitative research is expressed in numbers and graphs. It is used to test or confirm theories and assumptions. This type of research can be used to establish generalizable facts about a topic.
+Common quantitative methods include experiments, observations recorded as numbers, and surveys with closed-ended questions.
+Bryan and Bell (2011) wrote about quantitative research strategy including a deductive research theory concerning the relationship between theory and research. Furthermore, quantitative research involves different quantities of data to carry out the connection between theory and hypothesis. 
+
+According to that, in order to better fulfil the research purpose, which is to show the relationship of live streaming platforms' functionality and change in consumer buying behavior patterns in China, quantitative research method has been acquired for this study. A survey with closed-ended questions has been designed with certain statistical data derived from the respondents' answers.
+
+4.2 Designing an insightful survey
+
+A questionnaire about the interaction between Taobao Live and the users of the live streaming platform has been designed in relation to the theoretical part in order to fulfil the goal of this research. The design of the survey is cross-sectional, which is the design that is often used with standard survey-based measurement, such as self-administered questionnaires, in-person and telephone interviews (Fink, 2003). Cross-sectional design focuses on one or many groups during one time period. The survey can take several weeks or sometimes even months to complete. (Fink, 2003). This kind of design has been also called a social survey design by Bryman and Bell (2011). According to Fink (2003), surveys are methods for collecting such information as information about or from a person to compare as well as description or explanation of the person's attitude. The surveyors can obtain information right away, by asking people
+to answer questions or indirectly, by that means reviewing oral, written and records of
+people’s actions and thoughts. Usually the questions in a survey are arranged into mailed or self-administered questionnaires, it can be on computer or on paper, offline or on the Internet (Fink, 2003). In this research, a self-administered survey has been conducted among Chinese consumers on the internet via the widely used digital survey platform wenjuan.com. The questionnaire has been disseminated by the WeChat social media platform as well as using the online survey spreading service surveymonkey.com. 
+
+The aim of the survey is to find which features of live streaming affect consumer buying behavior to the highest degree and why Taobao Live has been so influential in helping consumers to make purchase decisions. It is also expected to help discover the correlation between the sample's personal information (such as age, gender, internet usage habits) and how they are using the service. The questionnaire consists of 14 questions that include basic information about respondents, how much time they spend on the internet and the Taobao Live streaming platform in particular, as well as whether or not they consider certain features of the platform to be especially influential in affecting their buying behavior. 

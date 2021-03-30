@@ -1,0 +1,4 @@
+Complex buying behavior -> Seeking detailed information about the products (Q10-Q13)
+Habitual buying behavior -> Seeking brand familiarity (Q7-Q8)
+Dissonance reducing behavior ->  Visibility = Availability (Q6-Q9)
+Variety Seeking Behavior -> Habitual use of Taobao Live (Q3-Q5)
