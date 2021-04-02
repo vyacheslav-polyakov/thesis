@@ -1,0 +1,9 @@
+H1. Taobao Live influences buying behavior because its environment allows users to familiarize with the products in more detail.
+H1a: Taobao live provides detailed information on products in general
+H1b: Taobao Live provides detailed information on products use and features
+H1c: Taobao Live provides detailed information on products quality
+H1d: Taobao Live provides detailed information on products appearance
+
+1) Perceived interactivity has a positive impact on consumer purchase intention.
+2) Perceived informational abundance has a positive impact on purchase intention.
+3) High customer engagement has a positive impact on purchase intention.
