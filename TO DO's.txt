@@ -1,3 +1,4 @@
-1. Take suggestions from "How Theory Links to Survey".txt 
-2. Translate them into hypotheses related with the questions
-3. Add them into the hypothesis list and into the thesis on corresponding pages 
+1. Extract the data (explain:Q14, control:sex,gender) DONE
+1.5. Edit the data with openpyxl
+2. Visualize the regression with python
+3. Describe the graph
