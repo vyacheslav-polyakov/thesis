@@ -1,0 +1,87 @@
+1618070106481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rgstr\\AppData\\Local\\Temp\\rust_mozprofilefKYy9L"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618070111588	Marionette	INFO	Listening on port 4347
+1618070111746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618070121033	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618070130790	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1618070131241	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+1618070156418	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+1618070448151	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+1618070478659	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618070484913	Marionette	INFO	Stopped listening on port 4347
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618314800550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rgstr\\AppData\\Local\\Temp\\rust_mozprofilemHIsVn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618314805730	Marionette	INFO	Listening on port 4990
+1618314805939	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+1618315194559	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china, line 1: ReferenceError: startLoader is not defined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618315318028	Marionette	INFO	Stopped listening on port 4990
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618316303260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rgstr\\AppData\\Local\\Temp\\rust_mozprofileXy0MkI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618316307191	Marionette	INFO	Listening on port 7729
+1618316307414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618316321359	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://tools.tracemyip.org/search--country/china:-v-:gTr=851&gNr=50, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china:-v-:gTr=851&gNr=50, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china:-v-:gTr=851&gNr=50, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china:-v-:gTr=851&gNr=50, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china:-v-:gTr=851&gNr=50, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china:-v-:gTr=851&gNr=50, line 1: ReferenceError: startLoader is not defined
+1618316449426	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://tools.tracemyip.org/search--country/china:-v-:gTr=851&gNr=50, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china:-v-:gTr=851&gNr=50, line 1: ReferenceError: startLoader is not defined
+1618316481256	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://tools.tracemyip.org/search--country/china:-v-:gTr=851&gNr=50, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china:-v-:gTr=851&gNr=50, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china:-v-:gTr=851&gNr=50, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china:-v-:gTr=851&gNr=50, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china:-v-:gTr=851&gNr=50, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china:-v-:gTr=851&gNr=50, line 1: ReferenceError: startLoader is not defined
+JavaScript error: https://tools.tracemyip.org/search--country/china:-v-:gTr=851&gNr=50, line 1: ReferenceError: startLoader is not defined
+1618316620891	Marionette	INFO	Stopped listening on port 7729
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'

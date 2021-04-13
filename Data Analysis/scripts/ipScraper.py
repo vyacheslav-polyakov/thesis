@@ -6,7 +6,7 @@ from google_trans_new import google_translator
 t = google_translator()
 
 loginPage = 'https://tools.tracemyip.org/login/:-v-:rdMSID=NTIwMDkzNA==&lGou=1'
-ipPage = 'https://tools.tracemyip.org/search--country/china'
+ipPage = 'https://tools.tracemyip.org/search--country/china:-v-:gTr=851&gNr=50'
 
 driver = webdriver.Firefox()
 #options = webdriver.FirefoxOptions()
@@ -15,7 +15,7 @@ driver = webdriver.Firefox()
 # Logging in
 driver.get(loginPage)
 login = driver.find_element_by_name('login_id')
-login.send_keys('vyacheslav.polyakov@email.com')
+login.send_keys('weichenslav@qq.com')
 password = driver.find_element_by_name('password')
 password.send_keys('Tp0d0tp0r')
 btn = driver.find_element_by_name('button_id')
@@ -42,9 +42,10 @@ try:
                              t.translate(state[0].lower()+state[1:], 'zh') + ' ' +
                              t.translate(city[0].lower()+city[1:], 'zh') + '\n'
                              )
-        print(str(i)+'/50 pages have been scraped')
+        print(str(i+1)+'/50 pages have been scraped')
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         nxt = driver.find_element_by_name('pgBtnNextB')
+        nxt.click()
 except:
     print('Something went wrong')
 finally:
