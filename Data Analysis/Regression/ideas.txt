@@ -1,0 +1,3 @@
+Categorical dependent variable (y): Buying behavior influence
+Continuous independent variable (x1): Age
+Categorical independent variable(x2): Gender

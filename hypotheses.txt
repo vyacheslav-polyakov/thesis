@@ -13,8 +13,8 @@ H4. Taobao Live influences buying behavior because it provides a platform, where
 
 
 Q
-1 NN
-2 NN
+1 RM
+2 RM
 3 H4
 4 H4
 5 H4
@@ -26,5 +26,5 @@ Q
 11 H1
 12 H1
 13 H1
-14 NN
+14 RM
 
