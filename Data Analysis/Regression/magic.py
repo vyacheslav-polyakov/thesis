@@ -18,7 +18,14 @@ while True:
     print(score)
     if score >= 0.86:
         break
-    
+
+coef = model.coef_
+intercept = model.intercept_
+print(coef)
+print(intercept)
+print(model.slope_)
+
+'''
 # Plotting
 plt.scatter(x_train, y_train, marker='+',color='red')
 plt.scatter(x_train, model.predict(x_train), c = "green")
@@ -30,7 +37,7 @@ plt.title("Gender vs Taobao Live influence on buying behavior")
 plt.xlabel('Influence rate')
 plt.ylabel('Gender (1=male, 2=female)')
 plt.show()
-
+'''
 
 '''
 # Age dependence
