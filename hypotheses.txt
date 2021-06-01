@@ -6,7 +6,7 @@ H1d: Taobao Live provides detailed information on products appearance
 
 H2. Taobao Live successfully handles dissonance reducing buying behavior by drawing user's attention to the products, therefore providing bigger visibility and perceived availability for consumers. (Q6)
 
-H3. Taobao Live is influencing buying behavior, because it provides a highly interactive platform both among users and between the users and the company. (Q7-9)
+H3. Taobao Live is influencing buying behavior, because it provides a highly interactive platform both among users and between users and businesses. (Q7-9)
 
 H4. Taobao Live influences buying behavior because it provides a platform, where consumers can be highly engaged with the brands, and form brand loyalty. 
 (Q3-5, Q7-9)
@@ -27,4 +27,3 @@ Q
 12 H1
 13 H1
 14 RM
-
