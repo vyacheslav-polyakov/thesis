@@ -1,0 +1,31 @@
+Hello everyone, the topic of my presentation is International E-Marketing to China: How Live treaming is Influencing Buying Behavior
+
+In the modern world dominated by information technology it's hard to overlook the importance of digital marketing. The latest trend of live streaming marketing has become a rapidly growing industry and is estimated to be worth $60 billion annually. 
+
+This work serves mainly two purposes:
+1. Indicate specific factors of live streaming that influence buying behavior.
+2. Identify the audiences most suitable for live streaming marketing strategies.
+
+When such data is available, it can assist both local and foreign businesses, trying to penetrate the Chinese market, in the choice of a more relevant marketing strategy,
+as well as support further academic research in the field. 
+
+Alibaba's Taobao Live has been chosen for this research as it's the platform with the bigest 79% market share in the live streaming industry. 
+
+The research has been conducted in three steps:
+1. Relevant literature was referenced in order to build hypotheses about what factors in live streaming could influence buying behavior.
+2. A survey based on the hypotheses has been conducted on wenjuan.com. It is important to clarify that a financial reward has been used to incentivize more people to take the survey.
+3. Finally, a linear regression model has been built from the data submitted by the respondents, and the hypothses have been tested against it. 
+
+Now let me present you with the hypotheses that this work has aimed to test.
+
+// Read the slides
+
+Let me now briefly introduce you to the survey and it's results.
+
+// Read the slides
+
+Let's now take a look at the correlation between different factors provided by the respondents and how likely they are to influence their buying behavior.
+
+// Have yet to figure it out
+
+Now thank you for your attention, if you have any questions, welcome.
