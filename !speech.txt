@@ -20,12 +20,13 @@ Now let me present you with the hypotheses that this work has aimed to test.
 
 // Read the slides
 
-Let me now briefly introduce you to the survey and it's results.
+Let me now briefly introduce you to the survey and it's results. 
 
 // Read the slides
 
 Let's now take a look at the correlation between different factors provided by the respondents and how likely they are to influence their buying behavior.
 
-// Have yet to figure it out
+As you can see, the first four variables are measured individually. The stars indicate the level of significance on which the factor influences the variable. 
+Information is the sum of questions 10-13 about the informativeness of the platform. 
 
 Now thank you for your attention, if you have any questions, welcome.
